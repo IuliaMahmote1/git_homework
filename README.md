@@ -1,0 +1,1 @@
+In this training I've learned new git commands and about VCS.
